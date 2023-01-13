@@ -1,5 +1,5 @@
 # SneakySnake
-BLJ-Projekt - Snake mit Pyhton
+BLJ-Projekt - Snake mit Python
 
 1. Python und Pygame installieren
 2. Projekt pullen
